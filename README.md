@@ -14,7 +14,7 @@ In these picture we can see the identification of the system basen on the impuls
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/3.PNG)<br/><br/><br/>
 
 ## Getting Started
-You can find the documentation of this project in the .rar file.
+You can find the documentation of this project in the .rar file.You can see the data acquisition in .scv files and the code I wrote in matlab for identification of electrical circuit in .m files.
   
 ## Programming Language
 * [matlab](https://www.mathworks.com/products/matlab.html)

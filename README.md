@@ -3,7 +3,7 @@ In this project I identified an electrical circuit based on the impulse and step
 
 
 ## System identification
-Here we can see the electrical equipment used:
+Here we can see the electrical equipments used:
 
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/1.PNG)<br/><br/><br/>
 

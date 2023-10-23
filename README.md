@@ -1,24 +1,32 @@
-# 🏵️ Electrical-Circuit-Identification
+# 💻 Electrical Circuit Identification
 In this project I identified an electrical circuit based on the impulse and step responses.
 
+## 📷 Preview  
+* Here we can see the electrical equipments used:
 
-## 🛠️ System identification
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/1.PNG">
+</p>
 
-* 📗 Here we can see the electrical equipments used:
+* In these picture we can see the identification of the system based on the impulse and step responses.The green signal is the system identified with 99% accuracy. 
 
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/1.PNG)<br/><br/><br/>
+<p align="center">
+ <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/2.PNG:>
+</p>
 
-* 📗 In these picture we can see the identification of the system based on the impulse and step responses.The green signal is the system identified with 99% accuracy. 
+<p align="center">
+ <img src"https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/3.PNG">
+</p>
 
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/2.PNG)<br/><br/><br/>
+## 💽 Prerequisites
+* ⚙️ Install Matlab
+* ⚙️ Install Simulink
 
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/3.PNG)<br/><br/><br/>
+## 🚀 Getting Started
+* ⭐ Clone the repository
+* ⭐ Unzip the rar file for seeing the data acuisition
+* ⭐ Find the documentation
 
-## ⚙️ Getting Started
-
-* 📓 You can find the documentation of this project in the .rar file.You can see the data acquisition in .scv files and the code I wrote in matlab for identification of electrical circuit in .m files.
-  
-## 📘 Programming Language
-
-* 📜 [matlab](https://www.mathworks.com/products/matlab.html)
-
+## 🖥️ Technologies
+* ⌨️ `Matlab`
+* 💽 `Simulink`
